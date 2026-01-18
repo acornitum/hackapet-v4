@@ -1,4 +1,4 @@
-24735720720006481
+24746281016976194
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57252,6 +57252,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Display_7Segment
+VDMR10A1
+
+
+0
+10
+10
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -80605,12 +80612,26 @@ SO exposed pad
 9
 9
 Package_SO
+EC05E1220401_Side_Encoder
+
+
+0
+5
+5
+Package_SO
 ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm
 20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body with Exposed Pad [eTSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
 SSOP 0.65
 0
 27
 21
+Package_SO
+GS5624
+
+
+0
+20
+20
 Package_SO
 HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm
 HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l7980.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -81367,6 +81388,13 @@ MSOP SO
 0
 16
 16
+Package_SO
+MST-12D18G3_SPDT
+
+
+0
+3
+3
 Package_SO
 NXP_HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.2x3.4mm
 HTSSOP, 28 Pin (https://www.nxp.com/docs/en/package-information/SOT1172-3.pdf)
@@ -82382,6 +82410,20 @@ HTSOP 1.27
 0
 19
 9
+Package_SO
+TS-1088-AR
+
+
+0
+2
+2
+Package_SO
+TS6655TPZJ_SW_PUSH_Side
+
+
+0
+4
+3
 Package_SO
 TSOP-5_1.65x3.05mm_P0.95mm
 TSOP-5 package (comparable to TSOT-23), https://www.vishay.com/docs/71200/71200.pdf
